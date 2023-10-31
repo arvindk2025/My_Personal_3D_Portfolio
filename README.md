@@ -1,10 +1,14 @@
 # My Personal 3D Portfolio
 
-![Project Image](project_image.png)
+![My Personal 3D Portfolio](./assets/portfolio_1.png?raw=true " Weather App ")
+![My Personal 3D Portfolio](./assets/portfolio_2.png?raw=true " Weather App ")
+![My Personal 3D Portfolio](./assets/portfolio_3.png?raw=true " Weather App ")
+![My Personal 3D Portfolio](./assets/portfolio_4.png?raw=true " Weather App ")
+![My Personal 3D Portfolio](./assets/portfolio_5.png?raw=true " Weather App ")
 
 ## Overview
 
-My Personal 3D Portfolio is a showcase of my work and skills using cutting-edge web technologies. It combines React.js, Three.js, React Three Fiber, Framer Motion, and TailwindCSS to create an immersive and visually appealing experience. This project also includes a contact form that allows visitors to send emails directly from the website.
+My Personal 3D Portfolio is a showcase of my work and skills using cutting-edge web technologies. It combines React.js, Three.js, React Three Fiber, Framer Motion, and Tailwind CSS to create an immersive and visually appealing experience. This project also includes a contact form that allows visitors to send emails directly from the website.
 
 ### Key Features
 
