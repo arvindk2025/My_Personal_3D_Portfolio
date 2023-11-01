@@ -325,6 +325,7 @@ import {
       ],
       image: portfolio,
       source_code_link: "https://github.com/arvindk2025",
+      link:"https://3-d-portfolio-arvindk25.vercel.app/"
     },
 
     {
