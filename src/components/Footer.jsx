@@ -6,7 +6,10 @@ import { FaFacebookF, FaInstagram, FaYoutube, FaLinkedinIn, FaGithub } from "rea
 const Footer = () => {
   return (
     <footer className="relative flex flex-col ">
-      <div className="bg-white h-[1px] mb-12 z-10 "></div>
+      <div
+        style={{ backgroundColor: "rgb(46 14 80)", height: "10px" }} // Set background color and height
+        className="mb-12 z-10"
+      ></div>
 
       <div className="flex justify-center items-center gap-8 mb-6">
         <div className="inline-block text-3xl border-[1px] rounded-md p-2 cursor-pointer hover:bg-gray-200 hover:shadow-md">
