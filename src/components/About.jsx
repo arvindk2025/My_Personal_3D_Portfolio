@@ -43,7 +43,7 @@ const About = () => {
          <div className="flex justify-between items-center">
           <h2 className={styles.sectionHeadText}> Overview.</h2>
             <a
-              href="https://drive.google.com/file/d/1LsvQ264WKXvuKp7k03ZBPfBzwh4oGE4E/view?usp=sharing"
+              href="https://drive.google.com/file/d/1iq6aTbmF6wuLXHWmKBjGZkLqWePYC0oN/view?usp=drive_link"
               target="_blank"  // Opens the link in a new tab
               rel="noopener noreferrer" // Security best practice
             >
